@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+#POKE APP
+Aplicacíon desarrollada con REDUX que presenta colección de Pokemones consumidos a travez de la api https://pokeapi.co/
+LOGIN: Se accede por medio de autenticación de Firebase con cuenta Google a la ruta protegida.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://pokeapp2.netlify.app/
+
++HTML +BOOTSTRAP CSS +JAVASCRIPT +REACT JS +REDUX +REACT +FIREBASE (AUTH + GOOGLE)
+
+#Views
+![poke1](https://user-images.githubusercontent.com/84545725/169114655-4c874ca2-1579-4c74-864a-02558ab53f58.jpg)
+![poke2](https://user-images.githubusercontent.com/84545725/169114698-e85411fd-cb43-4d8b-ae28-9589a4a9dcbe.jpg)
+
 
 ## Available Scripts
 
